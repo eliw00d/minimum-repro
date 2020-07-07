@@ -14,5 +14,4 @@ $ /minimum-repro/node_modules/.bin/eslint .
 ✖ 4 problems (4 errors, 0 warnings)
 
 error Command failed with exit code 1.
-info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
 ```
